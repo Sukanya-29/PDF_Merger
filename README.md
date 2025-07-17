@@ -11,6 +11,7 @@ You can install the required library using pip:
 
 ```bash
 pip install PyPDF2
+```
 
 # PDF Merger Script
 
