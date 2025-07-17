@@ -13,10 +13,6 @@ You can install the required library using pip:
 pip install PyPDF2
 ```
 
-# PDF Merger Script
-
-This repository contains a Python script designed to merge multiple PDF files into a single document.
-
 ## Script Explanation
 
 ### `merge_pdfs` Function
