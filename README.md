@@ -2,6 +2,8 @@
 
 This Python script allows you to merge multiple PDF files into a single PDF file. The script uses the `PyPDF2` library to handle PDF manipulation.
 
+There are 2 files: [merger_gui.py](https://github.com/Sukanya-29/PDF_Merger/blob/main/merger_gui.py) is a python file code with gui and [MiniProject_PDF_Merger.ipynb](https://github.com/Sukanya-29/PDF_Merger/blob/main/MiniProject_PDF_Merger.ipynb) is a google colab notebook with code only.
+
 ## Requirements
 
 * Python 3.x
