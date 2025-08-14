@@ -34,6 +34,3 @@ The function performs the following steps:
     * Closes the PDF file.
 3.  **Writes the combined pages to the output PDF file.**
 
-
-
-readme file changed 
